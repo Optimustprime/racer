@@ -1,0 +1,167 @@
+﻿#nav {
+    /*background: #0A0808;*/
+}
+body {
+    max-width: 100%;
+    min-height: 100%;
+    overflow-x: hidden;
+}
+@media (min-width: 576px) {
+    .don {
+        position: absolute;
+        font-size: 1rem;
+        color: white;
+        top: 534px;
+        right: 62px;
+    }
+    .slick {
+        text-align: center;
+        font-size: 42px;
+    }
+    .slick_a {
+        font-size: 21px;
+        text-align: center;
+        margin-left: 63px;
+        margin-right: 63px;
+        margin-top: 20px;
+    }
+    .movie {
+        background-color: white;
+        width: 50%;
+        height: 234px;
+        margin: auto;
+        transform: skewX(-20deg);
+        border-radius: 30px;
+    }
+    .nfont {
+        color: white;
+        right: 40px;
+        top: 130px;
+        position: absolute;
+        font-size: 32px;
+    }
+    .rfont {
+        position: absolute;
+        color: white;
+        left: 40px;
+        top: 129px;
+        font-size: 30px;
+    }
+    .mydiv {
+        width: 61%;
+        position: relative;
+        top: 285px;
+        margin: auto;
+        margin-bottom: 90px;
+        height: 3237px;
+    }
+    .mydi {
+        width: 61%;
+        position: relative;
+        top: 285px;
+        margin: auto;
+        margin-bottom: 90px;
+    }
+    .myhi{
+        height:3307px;
+    }
+    .space {
+        margin-bottom: 50px;
+        height:20%;
+    }
+    .meo {
+        font-size: 27px;
+    }
+    .myb {
+        text-align: center;
+        font-size: 30px;
+    }
+   
+
+}
+@media (min-width: 992px) {
+    .don {
+        position: absolute;
+        font-size: 1rem;
+        color: white;
+        top: 689px;
+        right: 62px;
+    }
+    .slick {
+        font-size:31px;
+        margin-left: 80px;
+        margin-top: 100px;
+        text-align: unset;
+    }
+    .slick_a {
+        text-align: unset;
+        margin-left: 80px;
+        width: 44%;
+        font-size: 14px;
+    }
+    .movie {
+        width: 40%;
+        position: absolute;
+        right: 58px;
+        top: 10px;
+        height: 300px;
+    }
+    .nfont {
+        font-size: 43px;
+    }
+    .rfont{
+        font-size:39px;
+    }
+    .mydiv {
+        width: 62%;
+        position: relative;
+        top: 285px;
+        margin: auto;
+        margin-bottom: 90px;
+        height: 643px;
+    }
+    .mydi {
+        width: 62%;
+        position: relative;
+        top: 285px;
+        margin: auto;
+        margin-bottom: 90px;
+  
+    }
+    .meo {
+      
+        font-size: 12px;
+    }
+    .myhi{
+        height:1634px;
+    }
+
+}
+@media (min-width: 1200px) {
+    /*.don {
+        position: absolute;
+        font-size: 1rem;
+        color: white;
+        top: 769px;
+        right: 62px;
+    }*/
+}
+    html {
+        height: 100%;
+    }
+
+    .trans {
+        transform: skewX(-25deg)
+    }
+
+    .stpng {
+        width: 100%;
+    }
+
+    @media (min-width: 992px) {
+        /*background-image: linear-gradient(180deg, #571818,black);*/
+        #navfont {
+            color: #FFFFFF;
+            font-size: 15px;
+        }
+    }
